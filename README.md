@@ -1,2 +1,5 @@
-100
-1000
+# Testy platforma AI dla Ksiegowosci
+
+## Spec
+
+## Referencje
